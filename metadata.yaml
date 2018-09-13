@@ -1,5 +1,5 @@
 _repo: Hamewith_51412
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Lang, Andrew
@@ -13,6 +13,9 @@ contributor:
     agent_name: Strachan, R. Douglas
     gutenberg_agent_id: '46400'
     url: http://www.gutenberg.org/2009/agents/46400
+covers:
+- cover_type: archival
+  image_path: 51412-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Murray, Charles
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '46458'
     url: http://www.gutenberg.org/2009/agents/46458
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51412#Hamewith
 gutenberg_issued: '2016-03-09'
 gutenberg_type: Text
 identifiers:
